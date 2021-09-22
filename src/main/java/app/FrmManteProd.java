@@ -100,6 +100,10 @@ public class FrmManteProd extends JFrame {
 		contentPane.add(lblCategora);
 	}
 
+	void llenaCombo() {
+		
+	}
+	
 	void listado() {
 		System.out.println("Listado Ok");
 	}
